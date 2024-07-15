@@ -15,43 +15,17 @@ export default function CardComponent() {
 					/>
 				</a>
 				<div className='p-5'>
-					<a href='#'>
-						<h5 className='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>
-							Noteworthy technology acquisitions 2021
-						</h5>
-					</a>
+					<h5 className='mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white'>
+						Noteworthy technology acquisitions 2021
+					</h5>
+
 					<p className='mb-3 font-normal text-gray-700 dark:text-gray-400'>
 						Here are the biggest enterprise technology acquisitions of 2021 so
 						far, in reverse chronological order.
 					</p>
 					<div className='gap-3 flex'>
 						<Link
-							href='#'
-							className='inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800'
-						>
-							<svg
-								className='w-6 h-6 text-gray-800 dark:text-white'
-								aria-hidden='true'
-								xmlns='http://www.w3.org/2000/svg'
-								width='24'
-								height='24'
-								fill='none'
-								viewBox='0 0 24 24'
-							>
-								<path
-									stroke='currentColor'
-									strokeWidth='2'
-									d='M21 12c0 1.2-4.03 6-9 6s-9-4.8-9-6c0-1.2 4.03-6 9-6s9 4.8 9 6Z'
-								/>
-								<path
-									stroke='currentColor'
-									strokeWidth='2'
-									d='M15 12a3 3 0 1 1-6 0 3 3 0 0 1 6 0Z'
-								/>
-							</svg>
-						</Link>
-						<Link
-							href='#'
+							href='update/dasdasd'
 							className='inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800'
 						>
 							<svg
